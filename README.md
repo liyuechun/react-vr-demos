@@ -6,7 +6,7 @@ If you want to use the react-native indicator or hud,please download the [react-
 
 
 ## Design sketch
-![000react-vr](http://ooqqekwlc.bkt.clouddn.com/002react-vr2.png)
+<!--![000react-vr](http://ooqqekwlc.bkt.clouddn.com/002react-vr2.png)-->
 ![001react-vr](http://ooqqekwlc.bkt.clouddn.com/001react-vr1.png)
 
 ## Install
